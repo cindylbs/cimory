@@ -1,2 +1,2 @@
 # cimory
-this is for real
+Hai im a busy programer
